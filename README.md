@@ -10,7 +10,9 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 
 
-Confira tudo o que temos no nosso Youtube. É grátis!
+Confira tudo o que temos no nosso Youtube. É grátis! Segue o link:
+
+[Curso git 2025](https://youtube.com/@teomewhy)
 
 ##Fluxo de trabalho Git local
 1. git checkout -b
